@@ -12,6 +12,7 @@ print(time_str)
 # Go get the price from coinmarket cap using their api
 # Basically copy paste from 
 # https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide
+# or get it from somewhere else 
 # response = ?
 ############
 
